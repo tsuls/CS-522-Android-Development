@@ -1,0 +1,37 @@
+Nov 21, 2019 11:06:24 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Starting HTTP server...
+Nov 21, 2019 11:06:24 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [192.168.1.184:8080]
+Nov 21, 2019 11:06:24 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Nov 21, 2019 11:06:24 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Listening at http://192.168.1.184:8080
+Nov 21, 2019 11:06:24 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Service available at http://192.168.1.184:8080/chat
+Hit enter to stop...
+Nov 21, 2019 11:06:50 PM edu.stevens.cs522.chat.webservice.ChatResource register
+INFO: Received registration request (client=31e29a58-3996-4b19-983d-a9b50db0e25e, username=Ty, timestamp=0, latitude=0, longitude=0)
+Nov 21, 2019 11:06:50 PM edu.stevens.cs522.chat.webservice.ChatResource register
+INFO: Successfully registered user Ty with UUID 31e29a58-3996-4b19-983d-a9b50db0e25e.
+Nov 21, 2019 11:06:54 PM edu.stevens.cs522.chat.webservice.ChatResource ping
+INFO: DEBUG: client 31e29a58-3996-4b19-983d-a9b50db0e25e is registered!
+Nov 21, 2019 11:07:52 PM edu.stevens.cs522.chat.webservice.ChatResource postMessage
+INFO: Received postMessage request (id = 1)
+Nov 21, 2019 11:07:52 PM edu.stevens.cs522.chat.webservice.ChatResource postMessage
+INFO: Received message Hi! (chatroom te)
+Nov 21, 2019 11:08:03 PM edu.stevens.cs522.chat.webservice.ChatResource postMessage
+INFO: Received postMessage request (id = 1)
+Nov 21, 2019 11:08:03 PM edu.stevens.cs522.chat.webservice.ChatResource postMessage
+INFO: Received message Whats up (chatroom te)
+Nov 21, 2019 11:08:31 PM edu.stevens.cs522.chat.webservice.ChatResource messages
+INFO: DEBUG: Received getMessages  request
+Nov 21, 2019 11:08:31 PM edu.stevens.cs522.chat.webservice.ChatResource$2 write
+INFO: DEBUG: Listed all messages)
+Nov 21, 2019 11:08:32 PM edu.stevens.cs522.chat.webservice.ChatResource messages
+INFO: DEBUG: Received getMessages  request
+Nov 21, 2019 11:08:32 PM edu.stevens.cs522.chat.webservice.ChatResource$2 write
+INFO: DEBUG: Listed all messages)
+Nov 21, 2019 11:09:51 PM edu.stevens.cs522.chat.webservice.ChatResource messages
+INFO: DEBUG: Received getMessages  request
+Nov 21, 2019 11:09:51 PM edu.stevens.cs522.chat.webservice.ChatResource$2 write
+INFO: DEBUG: Listed all messages)

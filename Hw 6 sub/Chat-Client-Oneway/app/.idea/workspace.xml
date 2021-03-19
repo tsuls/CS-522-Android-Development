@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c1befa5-17ad-4418-83b8-bd3a26e3500c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/Class/ex.beam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/Class/ex.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__artifacts_cs522_library_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_28_1_android_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_18_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Year 2/CS 529 Programming the IOT using iOS/Apple Watch/Apple Watch /AppleWatchExample" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Year 2/CS 529 Programming the IOT using iOS/Apple Watch/Apple Watch /AppleWatchExample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Year 3/CS 555 Agile/CS-555WS_Daniel_Jacob_Ruchika_Tyler" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Year 3/CS 555 Agile/CS-555WS_Daniel_Jacob_Ruchika_Tyler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Year 3/CS 555 Agile/Homework06/Original Entire Project (For compliation)/CS-555WS_Daniel_Jacob_Ruchika_Tyler (1)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Year 3/CS 555 Agile/Homework06/Original Entire Project (For compliation)/CS-555WS_Daniel_Jacob_Ruchika_Tyler (1)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Year 3/CS 555 Agile/Homework06/Refactored Entire Project (For compliation)/CS555 Local" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Year 3/CS 555 Agile/Homework06/Refactored Entire Project (For compliation)/CS555 Local" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/out/production/CS 511 Concurrent Programming/com/homework/gymSimulation/Client$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/out/production/CS 511 Concurrent Programming/com/homework/gymSimulation/Client$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/out/production/CS 511 Concurrent Programming/com/homework/gymSimulation/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/out/production/CS 511 Concurrent Programming/com/homework/gymSimulation/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/out/production/CS 511 Concurrent Programming/com/homework/gymSimulation/Exercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/out/production/CS 511 Concurrent Programming/com/homework/gymSimulation/Exercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/out/production/CS 511 Concurrent Programming/com/homework/textswap/TextSwap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/out/production/CS 511 Concurrent Programming/com/homework/textswap/TextSwap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/src/com/homework/textswap/TextSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CS 511 Concurrent Programming/src/com/homework/textswap/TextSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/activities/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/activities/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/activities/ViewPeerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/activities/ViewPeerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/activities/ViewPeersActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/activities/ViewPeersActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/async/AsyncContentResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/async/AsyncContentResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/async/QueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/async/QueryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/async/SimpleQueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/async/SimpleQueryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/contracts/MessageContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/contracts/MessageContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/contracts/PeerContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/contracts/PeerContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/entities/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/entities/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/entities/Peer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/entities/Peer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/managers/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/managers/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/managers/MessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/managers/MessageManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/managers/PeerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/managers/PeerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/providers/ChatProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/providers/ChatProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/res/menu/chatserver_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App With Provider and Managers/Chat-Server-Oneway/app/src/main/res/menu/chatserver_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/contracts/MessageContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/contracts/MessageContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/contracts/PeerContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/contracts/PeerContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/entities/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App with Content Provider/Chat-App-Provider/Chat-Server-Oneway/app/src/main/java/edu/stevens/cs522/chatserver/entities/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App with Database/Chat-App-Database/Chat-Server-Oneway/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App with Database/Chat-App-Database/Chat-Server-Oneway/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chat App with Database/Chat-App-Database/Chat-Server-Oneway/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Chat App with Database/Chat-App-Database/Chat-Server-Oneway/.idea/caches/gradle_models.ser" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_28_2" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Chat-Client-Oneway" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Chat-Client-Oneway" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Chat-Client-Oneway" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="chatclient" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5_API_28_2" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T23:45:33.189Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c1befa5-17ad-4418-83b8-bd3a26e3500c" name="Default Changelist" comment="" />
+      <created>1571779906001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571779906001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.23855165" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" weight="0.32970297" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" weight="0.32970297" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.27821782" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
